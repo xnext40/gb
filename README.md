@@ -1,1 +1,1 @@
-GB
+Course GeekBrains DevOps
